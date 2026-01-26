@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gauravkathe" alt="gauravkathe" /></a> </p>
 
-- 🔭 I’m currently working on **Mobile Development**
+- 🔭 I’m currently working on **Full Stack Development**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **React Native**
 
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
-- 🌱 I’m currently learning **Java Full Stack Development**
+- 🌱 I’m currently learning **DevOps and CLoud**
 
 - 👨‍💻 All of my projects are available at [https://gauravkathe.netlify.app/](https://gauravkathe.netlify.app/)
 
